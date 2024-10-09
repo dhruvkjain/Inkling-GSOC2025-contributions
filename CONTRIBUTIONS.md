@@ -26,6 +26,7 @@
 - 202201309 Yash Mehta
 - 202201409 Ramya Shah
 - 202312051 Abdullah Memon
+- 202203011 Het Khunt
 - 202301103 Krish Makwana
 - 202301039 Parshv Joshi
 - 202412103 Shashank Kumar
